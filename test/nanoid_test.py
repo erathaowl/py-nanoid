@@ -4,7 +4,7 @@ from sys import maxsize
 from unittest import TestCase
 
 from nanoid import generate, non_secure_generate
-from nanoid.resources import alphabet
+from nanoid.resources import alphabet_std as alphabet
 
 
 class TestNanoID(TestCase):
