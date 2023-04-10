@@ -11,7 +11,7 @@ setup(
     description='A tiny, secure, URL-friendly, unique string ID generator for Python',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/erathaowl/py-nanoid',
+    url='https://github.com/erathaowl/python3-nanoid',
     license='MIT',
     packages=['nanoid'],
     classifiers=[
