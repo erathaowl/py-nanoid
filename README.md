@@ -11,7 +11,7 @@ A tiny, secure, URL-friendly, unique string ID generator for Python.
 ## Installation
 
 ```sh
-pip install nanoid
+git clone https://github.com/erathaowl/py-nanoid.git
 ```
 
 
@@ -96,5 +96,5 @@ nanoid-dictionary with popular alphabets to use with nanoid/generate.
 ## Credits
 
 - Andrey Sitnik for [Nano ID](https://github.com/ai/nanoid).
-- [Dair Aidarkhanov](https://github.com/aidarkhanov) for main contribution to v2.0, and adding test cases.
+- [Dair Aidarkhanov](https://github.com/aidarkhanov) for main contribution to v2.0, and adding test cases and for the refactor proposed in https://github.com/puyuan/py-nanoid/issues/13
 - Aleksandr Zhuravlev for [ID collision probability](https://zelark.github.io/nano-id-cc/).
