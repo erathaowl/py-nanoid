@@ -11,7 +11,7 @@ A tiny, secure, URL-friendly, unique string ID generator for Python.
 ## Installation
 
 ```sh
-git clone https://github.com/erathaowl/py-nanoid.git
+git clone https://github.com/erathaowl/python3-nanoid.git
 ```
 
 
