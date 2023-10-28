@@ -5,7 +5,7 @@ from operator import concat
 
 import random
 import secrets
-Import string
+import string
 
 alphabet_std = f"_-{string.digits}{string.ascii_letters}"
 # alphabet_std = "_-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
